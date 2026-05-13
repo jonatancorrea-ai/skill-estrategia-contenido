@@ -65,7 +65,7 @@ Accede al archivo listo para instalar directamente en Claude:
 
 ---
 
-## 🚀 Comunidad MODO FUTURO ⚡
+## Comunidad MODO FUTURO ⚡
 
 Aprende IA sin complicaciones y a tu ritmo
 
@@ -79,7 +79,7 @@ Accede a:
 
 ---
 
-## ⚡ Consultoría SMART MEET
+## 📩 Consultoría SMART MEET
 
 Si quieres implementar IA en tu marca o negocio:
 
