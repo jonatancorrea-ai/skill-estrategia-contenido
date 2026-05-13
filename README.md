@@ -1,4 +1,8 @@
 # ⚡ Skill Estrategia de Contenido
+![Skill](https://img.shields.io/badge/Claude-Skill%20Activa-7c3aed)
+![Status](https://img.shields.io/badge/Estado-Producción-0f071e)
+![Version](https://img.shields.io/badge/Version-1.0-black)
+![Autor](https://img.shields.io/badge/Jonatan%20Correa-%E2%9A%A1-7c3aed)
 
 Skill de Claude para generar estrategias de contenido profesionales, accionables y listas para ejecutar.
 
