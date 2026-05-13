@@ -10,7 +10,7 @@ Diseñada para creadores, marcas, coaches, agencias y negocios que quieren dejar
 
 ---
 
-## ⚡ ¿Qué hace esta skill?
+## 🧠 ¿Qué hace esta skill?
 
 Convierte ideas sueltas en una estrategia de contenido completa:
 
@@ -25,7 +25,7 @@ Todo estructurado y listo para ejecutar en minutos.
 
 ---
 
-## ⚡ Instalación (1 minuto)
+## ✳️ Instalación (1 minuto)
 
 1. Abre Claude
 2. Ve a **Personalizar**
@@ -47,7 +47,7 @@ Accede al archivo listo para instalar directamente en Claude:
 
 ---
 
-## ⚡ Ideal para
+## 💡 Ideal para:
 
 - Marcas personales
 - Coaches y consultores
@@ -57,7 +57,7 @@ Accede al archivo listo para instalar directamente en Claude:
 
 ---
 
-## ⚡ Evita estos errores comunes
+## 🚫 Evita estos errores comunes
 
 - Pedir contenido sin definir audiencia
 - Querer demasiadas ideas sin enfoque
