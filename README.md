@@ -37,9 +37,9 @@ Todo estructurado y listo para ejecutar en minutos.
 
 ## 📥 Descargar Skill
 
-Descarga el archivo listo para usar aquí:
+Accede al archivo listo para instalar en Claude:
 
-👉 `estrategia-contenido.md`
+👉 [Descargar skill estrategia-contenido.md](https://raw.githubusercontent.com/jonatancorrea-ai/skill-estrategia-contenido/main/estrategia-contenido.md)
 
 ---
 
