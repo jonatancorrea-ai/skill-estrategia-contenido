@@ -43,7 +43,7 @@ Todo estructurado y listo para ejecutar en minutos.
 
 Accede al archivo listo para instalar directamente en Claude:
 
-👉 [📥 Descargar .MD](https://raw.githubusercontent.com/jonatancorrea-ai/skill-estrategia-contenido/main/estrategia-contenido.md)
+👉 [Descargar .MD](https://raw.githubusercontent.com/jonatancorrea-ai/skill-estrategia-contenido/main/estrategia-contenido.md)
 
 ---
 
