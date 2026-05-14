@@ -65,17 +65,15 @@ Accede al archivo listo para instalar directamente en Claude:
 
 ---
 
-## Comunidad MODO FUTURO ⚡
-
-Aprende IA sin complicaciones y a tu ritmo
+## Sigue aprendiendo en la Comunidad MODO FUTURO ⚡
 
 Accede a:
-- herramientas
-- automatizaciones
-- estrategias reales
-- recursos exclusivos
+- herramientas AI simplificadas
+- skills, prompts, workflows, frameworks.
+- estrategias reales para aplicar en tu marca o negocio.
+- recursos exclusivos listos para ajecutar.
 
-👉 Únete aquí: https://instagram.com/soyjonatancorrea
+👉 Únete ahora aquí: https://instagram.com/soyjonatancorrea
 
 ---
 
